@@ -95,5 +95,14 @@
 
 [Procrustes analysis on Wikipedia](https://en.wikipedia.org/wiki/Procrustes_analysis)*
 
-#### Miscellaneous
-[FantaMorph sample gallery](http://www.fantamorph.com/samples.html)* - a must-see
+#### Slide marginalia
+
+[FantaMorph sample gallery](http://www.fantamorph.com/samples.html) - a must-see
+
+[WRAL redistricting comparison](http://www.wral.com/how-2-redrawn-districts-could-affect-most-nc-voters/15339226/) by Tyler Dukes
+
+[On Growth and Form](https://archive.org/details/ongrowthform00thom) by D'Arcy Wentworth Thompson
+
+[Courts are Shaking Up House Elections in 2016](https://www.bloomberg.com/politics/graphics/2015-redistricting/) (Bloomberg News) - includes an animated transformation of Florida's 5th District
+
+[2013 Australian Election Results](https://www.theguardian.com/world/datablog/2013/sep/06/better-election-results-map) from The Guardian
