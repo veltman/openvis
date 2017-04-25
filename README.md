@@ -95,7 +95,7 @@
 
 [Procrustes analysis on Wikipedia](https://en.wikipedia.org/wiki/Procrustes_analysis)*
 
-#### Slide marginalia
+### Slide marginalia
 
 [FantaMorph sample gallery](http://www.fantamorph.com/samples.html) - a must-see
 
