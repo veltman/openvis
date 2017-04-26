@@ -30,9 +30,19 @@
 
 [Wilderness](https://github.com/colinmeinke/wilderness) - an SVG manipulation and animation library
 
+[Cirque](https://github.com/two-n/cirque) - JS utility for morphing between circles and polygons
+
 [reexpress](https://github.com/blendmaster/reexpress) - Beier-Neely image morphing in JavaScript
 
+[MorpherJS](https://github.com/jembezmamy/morpher-js) - Canvas image morphing using a manually-defined mesh
+
 [earcut](https://github.com/mapbox/earcut) - fast JS polygon triangulation
+
+### Other tools/demos
+
+[Processing shape morphing demo ](https://processing.org/examples/morph.html)
+
+[tweenr](https://github.com/thomasp85/tweenr) - Animation tweening in R
 
 ### Academic papers and algorithm demos
 
