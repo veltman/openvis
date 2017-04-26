@@ -1,5 +1,7 @@
 # OpenVisConf 2017 Bibliography
 
+[Presentation slides](https://docs.google.com/presentation/d/1HhplcsDvHuCNMtMUPeMpQG7vgx0cNe-hLnlQiNPDbvw/pub?start=false&loop=false&delayms=600000#slide=id.g1d8b36cc42_0_0)
+
 ### D3.js shape tweening demos
 
 [Smoother polygon transitions](https://bl.ocks.org/veltman/4d1413aa5fd3bb5af1a806c146870031) - animating between shapes using added bend vertices and optimized winding
